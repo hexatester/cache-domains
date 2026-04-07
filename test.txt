@@ -7,3 +7,5 @@ trigger.uklans.net
 edge-txcdn.ml.youngjoygame.com
 akmcdn.ml.youngjoygame.com
 wscdn.ml.youngjoygame.com
+wscdn.mc.moontontech.com
+akmcdn.mc.moontontech.com
