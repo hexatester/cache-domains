@@ -4,3 +4,6 @@ litmus.lancache.net
 litmus.uklans.net
 trigger.lancache.net
 trigger.uklans.net
+edge-txcdn.ml.youngjoygame.com
+akmcdn.ml.youngjoygame.com
+wscdn.ml.youngjoygame.com
